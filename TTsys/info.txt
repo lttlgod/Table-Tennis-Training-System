@@ -13,3 +13,22 @@ y_axis:
 
 serving motors：
 	Pin1：
+
+2: 			x dir
+3(PWM): 		x step
+4: 			x sensor
+5(PWM): 		
+6(PWM): 		y step
+7: 			y dir
+8: 			y sensor
+9(PWM):		up DC enable
+10(PWM):		down DC enable
+11(PWM):		bottom DC enable
+12:			bottom in5
+13:			bottom in6
+14:			down in3
+15:			down in4
+16:			up in1
+17:			up in2
+ 
+
