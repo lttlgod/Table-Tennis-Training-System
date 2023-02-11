@@ -3,17 +3,6 @@ sensor(x)的红黑线是反着的！！
 stepdriver：24V
 DCdriver：12V
 
-x_axis:
-	motorPin: 2, 3(PWM)
-	sensorPin: 4
-
-y_axis:
-	motorPin: 7, 6(PWM)
-	sensorPin: 8
-
-serving motors：
-	Pin1：
-
 2: 			x dir
 3(PWM): 		x step
 4: 			x sensor
